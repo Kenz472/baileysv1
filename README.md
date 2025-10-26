@@ -721,9 +721,7 @@ sock.ws.on('CB:edge_routing,id:abcd', (node) => {
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Kenz472/Shiina_Tourl/main/uploads/c37a8fcccc.mp4" width="300" />
-
+![WhatsApp API Banner](https://raw.githubusercontent.com/Kenz472/Shiina_Tourl/main/uploads/c37a8fcccc.mp4)
 <br>
 
 ✨ Terima kasih sudah menggunakan Baileys kami! ✨  
