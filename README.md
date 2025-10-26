@@ -11,7 +11,7 @@
 
 [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/@Ken_botz_pemula)
 
-![Join Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/@Kenz_472)
+[![Join Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/@Kenz_472)
 
 [![Follow Instagram](https://img.shields.io/badge/Follow-Instagram-critical?logo=instagram)](https://www.instagram.com/kenz.offc?igsh=MWk3eXVsaHN1OXU0cQ==)
 
