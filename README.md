@@ -2,12 +2,19 @@
 # 🚀 Baileys Mahiru News
 
 <div align="center">
+    
 ![WhatsApp API Banner](https://raw.githubusercontent.com/Kenz472/Shiina_Tourl/main/uploads/34656364db.jpeg)
+
 *A powerful WebSockets-based TypeScript library for interacting with the WhatsApp Web API**
+
 [![☏ Chennall](https://img.shields.io/badge/WhatsApp-Join-green?logo=whatsapp)](https://chat.whatsapp.com/HlyYOczlYcn9JipRVchJxE) 
+
 [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/@Ken_botz_pemula)
+
 ![Join Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/@Kenz_472)
+
 [![Follow Instagram](https://img.shields.io/badge/Follow-Instagram-critical?logo=instagram)](https://www.instagram.com/kenz.offc?igsh=MWk3eXVsaHN1OXU0cQ==)
+
 </div>
 
 ### 📦 Installation
