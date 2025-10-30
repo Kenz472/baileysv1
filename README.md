@@ -305,6 +305,8 @@ await sock.sendMessage(jid, {
 }, { quoted: m });
 ```
 
+
+
 ### 🍎 Simple Button Coppy
 ```javascript
 await sock.sendMessage(jid, {
@@ -325,6 +327,7 @@ await sock.sendMessage(jid, {
     }
 }, { quoted: m });
 ```
+
     
 ### ✨ Interactive Message with Native Flow
 ```javascript
@@ -479,6 +482,64 @@ await sock.sendMessage(jid, {
         selectableCount: 1
     }
 });
+```
+### 🥀 Button message Geser
+
+```javascript
+await sock.sendMessage(jid,
+  {
+    text: '📢 Isi Utama Pesan',
+    title: '🗂️ Judul Utama',
+    subtile: '📌 Subjudul Opsional',
+    footer: '📩 Footer Pesan',
+    cards: [
+      {
+        image: { url: 'https://www.example.com' },
+        title: '🖼️ Judul Kartu',
+        body: '📝 Isi Konten Kartu',
+        footer: '📍 Footer Kartu',
+        buttons: [
+          {
+            name: 'quick_reply',
+            buttonParamsJson: JSON.stringify({
+              display_text: '💬 Tombol Cepat',
+              id: 'ID_TOMBOL_1'
+            })
+          },
+          {
+            name: 'cta_url',
+            buttonParamsJson: JSON.stringify({
+              display_text: '🔗 Kunjungi Website',
+              url: 'https://www.example.com'
+            })
+          }
+        ]
+      },
+      {
+        image: { url: pp }, // Bisa juga Buffer gambar
+        title: '🎥 Judul Kartu Video',
+        body: '📝 Deskripsi Konten',
+        footer: '📍 Footer Kartu',
+        buttons: [
+          {
+            name: 'quick_reply',
+            buttonParamsJson: JSON.stringify({
+              display_text: '⚡ Respon Cepat',
+              id: 'ID_TOMBOL_2'
+            })
+          },
+          {
+            name: 'cta_url',
+            buttonParamsJson: JSON.stringify({
+              display_text: '🔎 Lihat Selengkapnya',
+              url: 'https://www.example.com'
+            })
+          }
+        ]
+      }
+    ]
+  }
+)
 ```
 
 <div align="center">
